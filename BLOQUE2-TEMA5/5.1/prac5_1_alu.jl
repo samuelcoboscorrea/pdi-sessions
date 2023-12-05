@@ -1,5 +1,9 @@
 # <Apellidos> :<NIA>
 # Solucion
+
+using Pkg
+Pkg.add("Images")
+Pkg.add("ImageView")
 using Images, ImageView
 
 # 1. Lee las siguientes imágenes

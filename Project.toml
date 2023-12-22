@@ -1,0 +1,4 @@
+[deps]
+ImageBinarization = "cbc4b850-ae4b-5111-9e64-df94c024a13d"
+ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
+Noise = "81d43f40-5267-43b7-ae1c-8b967f377efa"
